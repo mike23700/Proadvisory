@@ -1,0 +1,13 @@
+{
+  "description": "A modern company website showcasing Proadvisory’s agency, branding, football academy, and event services, with clear contact options for prospective clients.",
+  "icons": {
+    "icon": "/favicon.png"
+  },
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
